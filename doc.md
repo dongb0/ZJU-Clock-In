@@ -38,7 +38,6 @@ Fork的含义是将本仓库拷贝一份，放到你自己的github账号下，�
 
 Name必须为ACCOUNT，Value填入自己的浙大通行证账号，注意name和value的前后不要前后有多余空格。然后仿照上面的操作，
 再添加一个Name为PASSWORD，Value为浙大通行证密码的Secret，
-再添加一个Name为EAI_SESS，Value为https://healthreport.zju.edu.cn/ncov/wap/default/index的cookie eai-sess的内容，
 自动打卡脚本就配置完成了。
 
 效果和下面的差不多：
